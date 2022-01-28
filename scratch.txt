@@ -1,0 +1,13 @@
+OLD BIO:
+As an undergrad at the University of Kansas studying computer engineering, I have always had a strong passion for software development. With an overall experience of 1 year as a software developer, I been exposed to working in the majority of popular programming languages but particularly have a large amount of experience automating financial strategies through python
+
+NEW BIO:
+
+STUFF:
+Web app created to connect private sellers of parking spaces to buyers on gameday. The idea was created to create a competitive market where incoming tailgaters could find the cheapest parking spot possible. Skills being learned: django framework, microsoft azure integration, github version control, javascript.
+
+Pulls stock related data from a dynamic javascript loaded site. Sorts then stores the data in Excel sheets, pullsn indicator readings from the Excel sheets, then determines which stocks have all indicators in agreement. Skills learned: scraping dynamic pages, dataframes, importing Excel sheets, webdriving dynamic pages.
+
+ARDUINO 'RUMBA' BIO:
+
+Created a low cost hands free vacuum using arduino circuitry parts, arduino photosensors, and bissell vacuum parts. The robot does not map the entire room such as an actual rumba would,but it does slowly make its way around the room vacummingall while constantly sensing from each direction incoming objects. Skills learned include: arduino logic, photo sensor to arduino communication, and C#/C++ circuit based programming.
